@@ -1,0 +1,75 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: hsl(217, 54%, 11%);
+    align-items: center;
+    font-size: 18px;
+    color: hsl(0, 0%, 100%, 60%);
+    
+    
+}
+.main{
+    padding: 1.25rem;
+    align-items: center;
+    background-color: hsl(215, 32%, 27%);
+    border-radius: 12px;
+    margin-bottom: 1rem;
+    justify-content: center;
+    width: 500px;
+    margin-left: 37%;
+}
+
+.wallpaper{
+    align-items: center;
+}
+
+.wallpaper img{
+    max-width: 100%;
+    border-radius: 2%;
+    align-items: center;
+}
+
+.Equilibrium h2{
+    font-weight: 1000;
+    color: white;
+    margin: 1rem 0.5rem 0.5rem 0;
+}
+
+.our {
+    margin-top: 1.5rem;
+}
+.node{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 0;
+    font-weight: bold;
+    color: cyan;
+}
+
+.probox{
+    display: flex;
+    align-items: center;
+    justify-content: stretch;
+    padding-top: 2rem;
+    
+}
+
+.probox .profileimg{
+    padding-right: 2rem;
+}
+
+.probox .profileimg img{
+    width: 4.5rem;
+    border: 2px solid white;    
+    border-radius: 50%;
+    
+    
+}

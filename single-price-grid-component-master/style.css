@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: hsl(204, 43%, 93%);
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    border-radius: 10px;
+}
+
+.main .join{
+    background-color: white;
+    padding: 10px;
+    overflow: hidden;
+
+}
+
+
+
+
+
+
+
